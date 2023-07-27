@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/restaurent-react/static/css/main.75fd9b8d.css",
+    "main.js": "/restaurent-react/static/js/main.9980d291.js",
+    "static/js/787.0df7e208.chunk.js": "/restaurent-react/static/js/787.0df7e208.chunk.js",
+    "static/media/bg1.jpg": "/restaurent-react/static/media/bg1.6a545d4d0a80d9813949.jpg",
+    "static/media/dosa.png": "/restaurent-react/static/media/dosa.fc5e76b6ad1816c588e4.png",
+    "static/media/chickenFriedrice.png": "/restaurent-react/static/media/chickenFriedrice.b745a0b452f2213df772.png",
+    "static/media/vada.jpg": "/restaurent-react/static/media/vada.2f3deff974f680971d7b.jpg",
+    "static/media/muttonBiryani.jpg": "/restaurent-react/static/media/muttonBiryani.ebcbbb180dcc3681e1ba.jpg",
+    "static/media/vegBiryani.jpg": "/restaurent-react/static/media/vegBiryani.28c0b5b0e2d0f2bec48e.jpg",
+    "static/media/chickenBiryani.jpg": "/restaurent-react/static/media/chickenBiryani.9bf4b2383ac4c13c161c.jpg",
+    "static/media/bonda.jpg": "/restaurent-react/static/media/bonda.d5e99a406f5b77a3fdb8.jpg",
+    "static/media/meals.jpg": "/restaurent-react/static/media/meals.71ab424ee8d9fff11d4d.jpg",
+    "static/media/vegFriedrice.jpg": "/restaurent-react/static/media/vegFriedrice.e7850f92ff1590edf45f.jpg",
+    "static/media/idli.jpg": "/restaurent-react/static/media/idli.b6fe96c95c0a0a9ab279.jpg",
+    "static/media/masalaDosa.jpg": "/restaurent-react/static/media/masalaDosa.3a69a567966d8dcb8bb5.jpg",
+    "static/media/upma.jpg": "/restaurent-react/static/media/upma.820c5dc58c118ba9be6b.jpg",
+    "index.html": "/restaurent-react/index.html",
+    "main.75fd9b8d.css.map": "/restaurent-react/static/css/main.75fd9b8d.css.map",
+    "main.9980d291.js.map": "/restaurent-react/static/js/main.9980d291.js.map",
+    "787.0df7e208.chunk.js.map": "/restaurent-react/static/js/787.0df7e208.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75fd9b8d.css",
+    "static/js/main.9980d291.js"
+  ]
+}
