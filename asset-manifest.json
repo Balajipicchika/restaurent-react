@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/restaurent-react/static/css/main.75fd9b8d.css",
-    "main.js": "/restaurent-react/static/js/main.9980d291.js",
+    "main.js": "/restaurent-react/static/js/main.ff975748.js",
     "static/js/787.0df7e208.chunk.js": "/restaurent-react/static/js/787.0df7e208.chunk.js",
     "static/media/bg1.jpg": "/restaurent-react/static/media/bg1.6a545d4d0a80d9813949.jpg",
     "static/media/dosa.png": "/restaurent-react/static/media/dosa.fc5e76b6ad1816c588e4.png",
@@ -18,11 +18,11 @@
     "static/media/upma.jpg": "/restaurent-react/static/media/upma.820c5dc58c118ba9be6b.jpg",
     "index.html": "/restaurent-react/index.html",
     "main.75fd9b8d.css.map": "/restaurent-react/static/css/main.75fd9b8d.css.map",
-    "main.9980d291.js.map": "/restaurent-react/static/js/main.9980d291.js.map",
+    "main.ff975748.js.map": "/restaurent-react/static/js/main.ff975748.js.map",
     "787.0df7e208.chunk.js.map": "/restaurent-react/static/js/787.0df7e208.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.75fd9b8d.css",
-    "static/js/main.9980d291.js"
+    "static/js/main.ff975748.js"
   ]
 }
