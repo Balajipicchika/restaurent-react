@@ -5,10 +5,10 @@ const Layout = ({children}) => {
   return (
     <>
         <Header />
-        <div>
+        <div style={{minHeight: '80vh'}}>
             {children}
         </div>
-        <Footer />
+        <Footer style={{bottom: '0', position: 'fixed'}} />
     </>
   )
 }

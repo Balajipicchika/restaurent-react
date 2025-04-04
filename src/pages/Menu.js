@@ -7,7 +7,7 @@ import { Box, Card, CardActionArea, CardContent, CardMedia, Typography } from '@
 const Menu = () => {
   return (
     <Layout>
-      <h1>Tiffins:</h1>
+      <h1 style={{marginLeft: '30px'}}>Tiffins:</h1>
         <Box sx={{ display:'flex', flexWrap:'wrap',justifyContent:'center',
           "@media (max-width:600px)":{
             display:'flex',
@@ -35,7 +35,7 @@ const Menu = () => {
           }
         </Box>
 
-        <h1>Meals:</h1>
+        <h1 style={{marginLeft: '30px'}}>Meals:</h1>
         <Box sx={{ display:'flex', flexWrap:'wrap',justifyContent:'center',
           "@media (max-width:600px)":{
             display:'flex',

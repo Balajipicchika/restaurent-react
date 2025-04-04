@@ -6,9 +6,13 @@ const About = () => {
   return (
     <Layout>
         <Box sx={{
-          my: 15,
+          // my: 2,
           p: 2,
           textAlign: "center",
+          margin: '20px',
+          border: "0.5px solid gray",
+          borderRadius: '10px',
+          boxShadow: '2px 2px 3px gray',
           "& h4": {
             fontWeight:'bold',
             my: 2,
